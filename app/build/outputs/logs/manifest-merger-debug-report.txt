@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:7:5-73
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\cds125\.android\build-cache\df5dffeba6ddd40039f8d756bbabf63b84bfab65\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cds125\.android\build-cache\b6b1a5041312123b3bf8867f5ae97d342e5dc725\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\cds125\.android\build-cache\06632dcdeabb030853d3f10c97bb012a95f1eb91\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\cds125\.android\build-cache\d286639013608530ec3f9c0c98cfdeaa0d2f1eb6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\cds125\.android\build-cache\8b94d9eaa60bd9f1b446e55417885fb9e4f316cf\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\cds125\.android\build-cache\8b80dae9d9d99ee467c3f71750a00d4b62364352\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\cds125\.android\build-cache\1a9dc4e44bc6a9baed5702afb9cedb69b05f8288\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\cds125\.android\build-cache\021764c05bac16d3630b26ef43bd97813391c7b8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\cds125\.android\build-cache\4ab544d86907b24974602e3d06d3db7b9f4474d2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\cds125\.android\build-cache\1d56107a2a747106f1bbe7a3a4696e9eb66669d3\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cds125\.android\build-cache\b6b1a5041312123b3bf8867f5ae97d342e5dc725\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:7:42-71
+		INJECTED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:8:2-63
+	android:name
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:8:19-61
+application
+ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:9:5-34:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\cds125\.android\build-cache\df5dffeba6ddd40039f8d756bbabf63b84bfab65\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cds125\.android\build-cache\b6b1a5041312123b3bf8867f5ae97d342e5dc725\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\cds125\.android\build-cache\06632dcdeabb030853d3f10c97bb012a95f1eb91\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\cds125\.android\build-cache\d286639013608530ec3f9c0c98cfdeaa0d2f1eb6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\cds125\.android\build-cache\8b94d9eaa60bd9f1b446e55417885fb9e4f316cf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\cds125\.android\build-cache\8b80dae9d9d99ee467c3f71750a00d4b62364352\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\cds125\.android\build-cache\1a9dc4e44bc6a9baed5702afb9cedb69b05f8288\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\cds125\.android\build-cache\021764c05bac16d3630b26ef43bd97813391c7b8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\cds125\.android\build-cache\4ab544d86907b24974602e3d06d3db7b9f4474d2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\cds125\.android\build-cache\1d56107a2a747106f1bbe7a3a4696e9eb66669d3\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:11:9-41
+	android:hardwareAccelerated
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:13:9-43
+	android:icon
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:12:9-52
+activity#com.avenues.lib.activity.InitialScreenActivity
+ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:17:13-49
+	android:label
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:16:13-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.avenues.lib.activity.WebViewActivity
+ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:24:9-28:20
+	android:screenOrientation
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:26:13-68
+activity#com.avenues.lib.activity.StatusActivity
+ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:29:9-33:20
+	android:screenOrientation
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from D:\bala\balaTask\ccavenue\Non-Seamless\NonSeamless-Simple\app\src\main\AndroidManifest.xml:31:13-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cds125\.android\build-cache\b6b1a5041312123b3bf8867f5ae97d342e5dc725\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\cds125\.android\build-cache\06632dcdeabb030853d3f10c97bb012a95f1eb91\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\cds125\.android\build-cache\d286639013608530ec3f9c0c98cfdeaa0d2f1eb6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\cds125\.android\build-cache\8b94d9eaa60bd9f1b446e55417885fb9e4f316cf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\cds125\.android\build-cache\8b80dae9d9d99ee467c3f71750a00d4b62364352\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\cds125\.android\build-cache\1a9dc4e44bc6a9baed5702afb9cedb69b05f8288\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\cds125\.android\build-cache\021764c05bac16d3630b26ef43bd97813391c7b8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\cds125\.android\build-cache\4ab544d86907b24974602e3d06d3db7b9f4474d2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\cds125\.android\build-cache\1d56107a2a747106f1bbe7a3a4696e9eb66669d3\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cds125\.android\build-cache\b6b1a5041312123b3bf8867f5ae97d342e5dc725\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cds125\.android\build-cache\b6b1a5041312123b3bf8867f5ae97d342e5dc725\output\AndroidManifest.xml:26:9-47

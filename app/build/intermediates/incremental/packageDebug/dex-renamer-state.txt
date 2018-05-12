@@ -1,0 +1,4 @@
+#Tue May 08 10:08:58 IST 2018
+base.0=D\:\\bala\\balaTask\\ccavenue\\Non-Seamless\\NonSeamless-Simple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\bala\\balaTask\\ccavenue\\Non-Seamless\\NonSeamless-Simple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
